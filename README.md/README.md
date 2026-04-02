@@ -8,4 +8,4 @@ This is my first cybersecurity project laboratory focused on Steganography.
 - Kali Linux (VM)
 - Imagemagick ( For converting image file from jpeg to jpg )
 - Git & GitHub
-- Python ( Coming Soon )
+- Python ( Encoding and Decoding Tools. )
